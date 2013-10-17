@@ -1,25 +1,26 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk alls ekki vel að installa Ubuntu.  Ég fór eftir leiðbeiningum en náði samt ekki að ræsa tölvuna út frá usb kubbnum.
+Skjárinn varð bara svartur og ekkert gerðist.  
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Ég fann uppsetningar af þessum forritum á netinu til að installa á Windows og það gekk mjög vel.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Það gekk mjög vel að forka NIM verkefnið og það kom ekki neitt upp á fyrir mig.  Félagi minn fékk samt einhverja villumeldingu og gat ekki klárað verkefnið.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/kotkarl/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1. GIMP - GNU General Public License - http://www.gimp.org/about/
+2. Mozilla Firefox - Mozilla Public Licence - http://www.mozilla.org/MPL/
+3. Moodle - GNU General Public License - http://tinyurl.com/mxkex48
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Það kom ekkert uppá varðandi vinnslu markdown skjalsins og það gekk bara vel að mínu mati.  Með Google að vini er allt hægt.
